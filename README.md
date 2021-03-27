@@ -1,6 +1,12 @@
+### Morten Andersen 
+
+* [LinkedIn](https://www.linkedin.com/in/morten-andersen-cph/)
+* [GitHub](https://github.com/morten-andersen)
+
 20 years of experience as full time professional developer (including 2 years as IT consultant).
 
-**THE WHY? - why am I a software developer**
+### THE WHY? - why am I a software developer
+
 * First and foremost to solve real world customer problems
 * Because I like analyzing problems and like to design and implement solutions that solves problems
 * Because of the creative process of solving problems - it is full of math, it is full of logic
@@ -11,7 +17,8 @@
 * Because It is like LEGO with all the bricks in the world
 * Because I care for details - software is about the little details, the well thought architecture, the solid implementation
 
-**Some personal notes and presentations**
+### Some personal notes and presentations
+
 * [**Presentations**](https://presentations.accel.dk/) I have held at internal company events
 * [**Tech notes**](https://tech-notes.accel.dk/) on programming languages, IT systems and other technical areas
 * [**Book notes and mindmaps**](https://book-notes.accel.dk/) for books I read
