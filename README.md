@@ -2,8 +2,8 @@
 
 20 years of experience as full time professional developer (including 2 years as IT consultant).
 
-* [LinkedIn](https://www.linkedin.com/in/morten-andersen-cph/)
-* [GitHub](https://github.com/morten-andersen)
+* [**LinkedIn**](https://www.linkedin.com/in/morten-andersen-cph/)
+* [**GitHub**](https://github.com/morten-andersen)
 
 ### THE WHY? - why am I a software developer
 
@@ -21,4 +21,4 @@
 
 * [**Presentations**](https://presentations.accel.dk/) I have held at internal company events
 * [**Tech notes**](https://tech-notes.accel.dk/) on programming languages, IT systems and other technical areas
-* [**Book notes and mindmaps**](https://book-notes.accel.dk/) for books I read
+* [**Book notes and mindmaps**](https://book-notes.accel.dk/) for books I have read
