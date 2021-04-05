@@ -1,7 +1,5 @@
 ## Morten Andersen
 
-**Pragmatic Programmer** - *"We who cut mere stones must always be envisioning cathedrals"*
-
 20 years of experience as full time professional developer (including 2 years as IT consultant).
 
 * [**LinkedIn**](https://www.linkedin.com/in/morten-andersen-cph/)
