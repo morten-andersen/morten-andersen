@@ -3,7 +3,6 @@
 20 years of experience as full time professional developer (including 2 years as IT consultant).
 
 🔗 [**LinkedIn**](https://www.linkedin.com/in/morten-andersen-cph/)
-
 🔗 [**GitHub**](https://github.com/morten-andersen)
 
 ### THE WHY? - why am I a software developer
@@ -20,10 +19,10 @@
 
 ### *Putting your money where your mouth is*
 
-* [**Open Source Donations**](https://tech-notes.accel.dk/opensource) - list of all the open source projects I have donated to
+* 🔗 [**Open Source Donations**](https://tech-notes.accel.dk/opensource) - list of all the open source projects I have donated to
 
 ### Some personal notes and presentations
 
-* [**Presentations**](https://presentations.accel.dk/) I have held at internal company events
-* [**Tech notes**](https://tech-notes.accel.dk/) on programming languages, IT systems and other technical areas
-* [**Book notes and mindmaps**](https://book-notes.accel.dk/) for books I have read
+* 🔗 [**Presentations**](https://presentations.accel.dk/) I have held at internal company events
+* 🔗 [**Tech notes**](https://tech-notes.accel.dk/) on programming languages, IT systems and other technical areas
+* 🔗 [**Book notes and mindmaps**](https://book-notes.accel.dk/) for books I have read
