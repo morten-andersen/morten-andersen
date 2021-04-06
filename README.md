@@ -1,4 +1,4 @@
-## Morten Andersen
+## &#2699; Morten Andersen
 
 20 years of experience as full time professional developer (including 2 years as IT consultant).
 
