@@ -17,7 +17,7 @@
 * Because It is like LEGO with all the bricks in the world
 * Because I care for details - software is about the little details, the well thought architecture, the solid implementation
 
-### *Putting your money where your mouth is*
+### Putting your money where your mouth is
 
 * 🔗 [**Open Source Donations**](https://tech-notes.accel.dk/opensource) - list of the open source projects I have donated to
 
