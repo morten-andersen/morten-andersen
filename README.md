@@ -19,7 +19,7 @@
 
 ### *Putting your money where your mouth is*
 
-* 🔗 [**Open Source Donations**](https://tech-notes.accel.dk/opensource) - list of all the open source projects I have donated to
+* 🔗 [**Open Source Donations**](https://tech-notes.accel.dk/opensource) - list of the open source projects I have donated to
 
 ### Some personal notes and presentations
 
