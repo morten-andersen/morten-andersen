@@ -3,6 +3,7 @@ defaults:
   - scope:
       path: ""
     values:
+      title: "⚙️ Morten Andersen ⚙️ Pragmatic Programmer"
       image:
         path: /assets/tech.jpg
         height: 640
