@@ -18,10 +18,10 @@
 
 ### Putting your money where your mouth is
 
-* 🔗 [**Open Source Donations**](https://tech-notes.accel.dk/opensource) - list of the open source projects I have donated to
+* 🔗 [**Open Source Donations**](https://tech-notes.accel.dk/opensource) - list of the open source projects I have donated to over the years
 
 ### Some personal notes and presentations
 
 * 🔗 [**Presentations**](https://presentations.accel.dk/) I have held at internal company events
-* 🔗 [**Tech notes**](https://tech-notes.accel.dk/) on programming languages, IT systems and other technical areas
-* 🔗 [**Book notes & mindmaps**](https://book-notes.accel.dk/) for books I have read
+* 🔗 [**Tech Notes & Mindmaps**](https://tech-notes.accel.dk/) on programming languages, network, systems, calendars, etc.
+* 🔗 [**Book Notes & mindmaps**](https://book-notes.accel.dk/) on books I read, talks I watch, articles I study, and papers I love
