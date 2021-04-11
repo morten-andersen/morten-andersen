@@ -24,4 +24,4 @@
 
 * 🔗 [**Presentations**](https://presentations.accel.dk/) I have held at internal company events
 * 🔗 [**Tech Notes & Mindmaps**](https://tech-notes.accel.dk/) on programming languages, network, systems, calendars, etc.
-* 🔗 [**Book Notes & mindmaps**](https://book-notes.accel.dk/) on books I read, talks I watch, articles I study, and papers I love
+* 🔗 [**Book Notes & Mindmaps**](https://book-notes.accel.dk/) on books I read, talks I watch, articles I study, and papers I love
