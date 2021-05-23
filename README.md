@@ -25,6 +25,7 @@
 * 🔗 [**Presentations**](https://presentations.accel.dk/) I have held at internal company events
 * 🔗 [**Book Notes & Mindmaps**](https://book-notes.accel.dk/) on books I read, talks I watch, articles I study, and papers I love
 * 🔗 [**Tech Notes & Mindmaps**](https://tech-notes.accel.dk/) on programming languages, network, systems, calendars, etc.
+* 🔗 [**Master Thesis**](https://thesis.accel.dk/) my Master Thesis for Master of Information Technology, Software Development
 
 ### Contact 📩
 
