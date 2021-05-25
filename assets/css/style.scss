@@ -7,7 +7,7 @@ body {
   color: #adbac7;
 }
 .page-header {
-  padding: 1rem;
+  padding: 0rem;
   background-color: #2d333b;
   background-image: none;
   color: lightgray;
@@ -18,6 +18,7 @@ body {
 .project-tagline {
   margin-top: 0;
   margin-bottom: 1rem;
+  padding-bottom: 1rem;
   font-variant: small-caps;
 }
 .main-content>h1, .main-content>h2, .main-content>h3, .main-content>h4, {
