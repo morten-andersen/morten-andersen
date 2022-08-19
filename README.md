@@ -32,5 +32,5 @@
 
 ### ✉️ Contact
 
-* I use [**ProtonMail**](https://protonmail.com/) because I care about privacy and secure communication
+* I use 🔗 [**Proton Mail**](https://proton.me/mail) because I care about privacy and secure communication
 * My public PGP key is here 🔑 [**B9BC9297.asc**](B9BC9297.asc). My email address is at my GitHub and LinkedIn profiles
