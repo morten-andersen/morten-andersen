@@ -1,5 +1,4 @@
-# theme: jekyll-theme-cayman
-remote_theme: pages-themes/architect@v0.2.0
+theme: jekyll-theme-cayman
 defaults:
   - scope:
       path: ""
@@ -10,4 +9,3 @@ defaults:
         width: 1280
 plugins:
   - jekyll-sitemap
-  - jekyll-remote-theme
