@@ -4,7 +4,7 @@ defaults:
       path: ""
     values:
       image:
-        path: /assets/tech.jpg
+        path: /assets/sunset.jpg
         height: 640
         width: 1280
 plugins:
