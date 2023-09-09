@@ -19,19 +19,19 @@
 
 ### 🌍 Putting your money where your mouth is
 
-* 🔗 [**Open Source Donations**](https://tech-notes.accel.dk/opensource) - list of the open source projects I have donated to over the years
+* 🧩 [**Open Source Donations**](https://tech-notes.accel.dk/opensource) - list of the open source projects I have donated to over the years
 
 ### 🎓 Master of Information Technology, Software Development
 
-* 🔗 [**Master Thesis**](https://thesis.accel.dk/) for *Master of Information Technology, Software Development* about *building in redundancy in a highly distributed wind farm SCADA system*
+* 🎓 [**Master Thesis**](https://thesis.accel.dk/) for *Master of Information Technology, Software Development* about *building in redundancy in a highly distributed wind farm SCADA system*
 
 ### 📚 Some personal notes and presentations
 
-* 🔗 [**Presentations**](https://presentations.accel.dk/) I have held at internal company events
-* 🔗 [**Book Notes & Mindmaps**](https://book-notes.accel.dk/) on books I read, talks I watch, articles I study, and papers I love
-* 🔗 [**Tech Notes & Mindmaps**](https://tech-notes.accel.dk/) on programming languages, network, systems, calendars, etc.
+* 💬 [**Presentations**](https://presentations.accel.dk/) I have held at internal company events
+* 📚 [**Book Notes & Mindmaps**](https://book-notes.accel.dk/) on books I read, talks I watch, articles I study, and papers I love
+* ⚙️ [**Tech Notes & Mindmaps**](https://tech-notes.accel.dk/) on programming languages, network, systems, calendars, etc.
 
 ### ✉️ Contact
 
-* I use 🔗 [**Proton Mail**](https://proton.me/mail) because I care about privacy and secure communication
+* I use 🔏 [**Proton Mail**](https://proton.me/mail) because I care about privacy and secure communication
 * My public PGP key is here 🔑 [**B9BC9297.asc**](B9BC9297.asc). My email address is at my GitHub and LinkedIn profiles
