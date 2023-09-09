@@ -13,11 +13,11 @@ body {
   background-repeat: no-repeat;
   position: relative;
   background-size: cover;
+  position: fixed;
+  width: 100%;
   @include large {
     padding: 5rem;
     border-radius: 0% 0% 10% 10%;
-    position: fixed;
-    width: 100%;
   }
   @include medium {
     border-radius: 0% 0% 10% 10%;
