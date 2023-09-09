@@ -7,7 +7,7 @@ body {
   color: #adbac7;
 }
 .page-header {
-  padding: 0rem;
+  padding: 5rem;
   background-color: #2d333b;
   background-image: url('/assets/sunset.webp');
   background-position: center;
@@ -15,6 +15,12 @@ body {
   position: relative;
   background-size: cover;
   color: #1e6bb8;
+}
+.project-name {
+  font-size: 5rem;
+}
+.project-tagline {
+  font-size: 1.5rem;
 }
 .page-header>.btn {
   display: none;
