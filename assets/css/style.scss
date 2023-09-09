@@ -36,6 +36,12 @@ body {
   @include large {
     font-size: 1.5rem;
   }
+  @include medium {
+    font-size: 1.2rem;
+  }
+  @include small {
+    font-size: 1.2rem;
+  }
 }
 .main-content {
   padding-top: 1rem;
