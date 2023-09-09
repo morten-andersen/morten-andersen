@@ -10,7 +10,11 @@ body {
   padding: 0rem;
   background-color: #2d333b;
   background-image: url('/assets/sunset.webp');
-  color: lightgray;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+  background-size: cover;
+  color: #1e6bb8;
 }
 .page-header>.btn {
   display: none;
