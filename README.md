@@ -3,6 +3,7 @@
 🔗 [**accel.dk**](https://www.accel.dk/)
 🔗 [**GitHub**](https://github.com/morten-andersen)
 🔗 [**LinkedIn**](https://www.linkedin.com/in/morten-andersen-cph/)
+🔗 [**Gravatar**](https://gravatar.com/mortenandersencph)
 🔗 [**The Org**](https://theorg.com/org/monta/org-chart/morten-andersen)
 
 ### 🤔 THE WHY? - why am I a software developer
