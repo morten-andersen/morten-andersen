@@ -20,6 +20,7 @@
 
 ### 🌍 Putting your money where your mouth is
 
+* 🌍 [**Media I Support**](./stance) - list of organizations and media I support financially
 * 🧩 [**Open Source Donations**](https://tech-notes.accel.dk/opensource) - list of the open source projects I have donated to over the years
 
 ### 🎓 Master of Information Technology, Software Development
