@@ -6,7 +6,7 @@
 🔗 [**Gravatar**](https://gravatar.com/mortenandersencph)
 🔗 [**The Org**](https://theorg.com/org/monta/org-chart/morten-andersen)
 
-### 🤔 THE WHY? - why am I a software developer
+### 🤔 THE WHY? - why am I a Software Developer
 
 * First and foremost to solve real world customer problems
 * Because I like analyzing problems and like to design and implement solutions that solves problems
@@ -27,7 +27,7 @@
 
 * 🎓 [**Master Thesis**](https://thesis.accel.dk/) for *Master of Information Technology, Software Development* about *building in redundancy in a highly distributed wind farm SCADA system*
 
-### 📚 Some personal notes and presentations
+### 📚 Personal Notes and Presentations
 
 * 💬 [**Presentations**](https://presentations.accel.dk/) I have held at internal company events
 * 📚 [**Book Notes & Mindmaps**](https://book-notes.accel.dk/) on books I read, talks I watch, articles I study, and papers I love
