@@ -1,4 +1,4 @@
-Is this just a list of my good deeds? Surely!
+🤔 Is this just a list of my good deeds? Surely!
 
 But in today’s world, I believe it’s more important than ever to speak openly about what you stand for, be proud of what you support, and let your money follow your values.
 
@@ -20,7 +20,7 @@ Below is a list of the trusted publications I proudly subscribe to and actively 
 
 The world does not become a fairer or better place without action.
 
-Having had the privilege of being born in Scandinavia - where gender equality is high, education is freely accessible, and society is safe enough for individuals to fully realize their potential and enjoy a healthy work-life balance - I feel a strong obligation to support organizations that strive to move the world in the direction I believe in for those not as fortunate as me
+Having had the privilege of being born in Scandinavia - where gender equality is high, education is freely accessible, and society is safe enough for individuals to fully realize their potential and enjoy a healthy work-life balance - I feel a strong obligation to support organizations that strive to move the world in the direction I believe in, for those not as fortunate as me
 
 * [**Læger uden Grænser**](https://msf.dk/) - the Danish chapter of *Médecins Sans Frontières* - I deeply believe and support their principles "*.. to contribute to the protection of life and the alleviation of suffering out of respect for human dignity. MSF brings care to people in precarious situations and works towards helping them regain control over their future*". Wherefore I have been a proud supporter every month for more than 20 years since 2003
 * [**Dansk Flygtningehjælp**](https://drc.ngo/) - the biggest Danish NGO offering aid to refugees all over the world. I have been supporting them for more than 10 years since 2015. After the Russian invasion in Ukraine in 2022 I significantly increased my monthly support
