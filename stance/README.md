@@ -15,6 +15,7 @@ Below is a list of the trusted publications I proudly subscribe to and actively 
 * [**Ingeniøren**](https://ing.dk/) - bi-weekly newspaper for Engineers by the Danish Association of Engineers. I have been a subscriber since the late 90's
 * [**ACM - Association for Computing Machinery**](https://www.acm.org/) - professional member since 2022 of the world's largest educational and scientific computing society
 * [**EFF - Electronic Frontier Foundation**](https://www.eff.org/) - for defending digital privacy, free speech, and innovation on the Internet. Supporting EFF occasionally since 2013 and continuously since 2021
+* [**SNU - Selskabet for Naturlærens Udbredelse**](https://snu.dk/) - a Danish Society founded by H.C.Ørsted in 1824 to promote knowledge of the natural sciences. I have been a member since 2024
 
 ### 🇩🇰🇪🇺 Political Stance
 
