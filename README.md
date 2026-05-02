@@ -40,4 +40,5 @@
 
 ### 🛡 Git Signing Keys
 
-* My git commits are signed with either of these two keys 🔐 `741C7FEEA864FC156578434006AB99F97B89829B`
+* My git commits are signed with either of these two keys
+  * 🔐 `741C7FEEA864FC156578434006AB99F97B89829B`
