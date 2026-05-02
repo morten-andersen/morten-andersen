@@ -37,3 +37,7 @@
 
 * I use 🔏 [**Proton Mail**](https://proton.me/mail) because I care about privacy and secure communication
 * My public PGP key is here 🔑 [**B9BC9297.asc**](B9BC9297.asc). My email address is at my GitHub and LinkedIn profiles
+
+### 🛡 Git Signing Keys
+
+* My git commits are signed with either of these two keys 🔐 `741C7FEEA864FC156578434006AB99F97B89829B`
