@@ -1,4 +1,4 @@
-25 years of experience as full time professional developer and software architect.
+👨‍🏭 25 years of experience as full time professional developer and software architect.
 
 🔗 [**accel.dk**](https://www.accel.dk/)
 🔗 [**GitHub**](https://github.com/morten-andersen)
